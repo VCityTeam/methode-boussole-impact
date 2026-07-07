@@ -6,7 +6,7 @@
 - Gilles Gesquière (Université Lumière Lyon 2)
 - Benoit Martin (PUI IMPULSE)
 
-** Licence **
+**Licence**
 - CC By SA
 
 **Contributeurs**
