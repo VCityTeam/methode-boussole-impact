@@ -10,7 +10,7 @@
 - CC By SA
 
 **Contributeurs**
-- A bompléter
+- A compléter
 
 ## Présentation générale
 
