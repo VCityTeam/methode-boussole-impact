@@ -1,15 +1,17 @@
 # Méthode Boussole de l’impact
 **PUI Impulse/ WP4**
-**Version 0.9 — 07/07/2026**
 
-**Auteurs**
+ **Version 0.9 — 07/07/2026**
+
+
+ **Auteurs**
 - Gilles Gesquière (Université Lumière Lyon 2)
 - Benoit Martin (PUI IMPULSE)
 
-**Licence**
+ **Licence**
 - CC By SA
 
-**Contributeurs**
+ **Contributeurs**
 - A compléter
 
 ## Présentation générale
