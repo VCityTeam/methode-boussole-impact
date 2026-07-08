@@ -1,3 +1,5 @@
+![Logo Pui Impulse](Media/Logo_PUI.png)
+
 # Méthode Boussole de l’impact
 **PUI Impulse/ WP4**
 
