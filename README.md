@@ -183,4 +183,11 @@ Dans quelle mesure votre projet a-t-il le potentiel de transformer durablement u
 
 La logique générale de la méthode repose sur une double lecture : l’état actuel du projet et le niveau visé à terme. Cette distinction permet non seulement d’évaluer la maturité présente du projet sur chaque dimension, mais aussi de rendre visibles les ambitions de progression. L’intérêt du radar ne réside donc pas seulement dans la photographie instantanée qu’il produit, mais dans l’écart qu’il fait apparaître entre la situation présente et la trajectoire souhaitée. 
 
-L’outil peut ainsi être mobilisé comme support de discussion stratégique. Il permet d’identifier les dimensions déjà consolidées, celles qui nécessitent des approfondissements méthodologiques, ainsi que les arbitrages à opérer entre innovation, soutenabilité, inclusion, territorialisation et diffusion. 
+L’outil peut ainsi être mobilisé comme support de discussion stratégique. Il permet d’identifier les dimensions déjà consolidées, celles qui 
+
+nécessitent des approfondissements méthodologiques, ainsi que les arbitrages à opérer entre innovation, soutenabilité, inclusion, territorialisation et diffusion. 
+
+## Pour aller plus loin
+Pour prolonger l’usage de la boussole de l’impact, il est recommandé de partager vos résultats avec les cellules de valorisation liées aux tutelles de votre laboratoire, ou de prendre directement contact avec la SATT Pulsalys, afin d’explorer les pistes de maturation, de transfert ou de partenariat adaptées à votre projet. 
+
+Si vous le souhaitez, vous pouvez d’abord enregistrer ces résultats pour votre propre suivi ; vous pouvez aussi les transmettre à une tutelle de votre laboratoire et/ou à la SATT Pulsalys en joignant un court jeu d’informations : un titre de projet, une brève description, votre nom et prénom, le laboratoire de rattachement, une adresse de messagerie et, en option, un numéro de téléphone pour faciliter les échanges. En fonction de ces informations, nous vous enverons les personnes à solliciter au sein des services.
