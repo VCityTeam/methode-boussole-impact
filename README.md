@@ -178,6 +178,9 @@ Dans quelle mesure votre projet a-t-il le potentiel de transformer durablement u
 
 ## Interprétation des résultats
 
+**Exemple de résultat**
+![Radar du projet](Media/Exemple_Radar_Axes.png)
+
 La logique générale de la méthode repose sur une double lecture : l’état actuel du projet et le niveau visé à terme. Cette distinction permet non seulement d’évaluer la maturité présente du projet sur chaque dimension, mais aussi de rendre visibles les ambitions de progression. L’intérêt du radar ne réside donc pas seulement dans la photographie instantanée qu’il produit, mais dans l’écart qu’il fait apparaître entre la situation présente et la trajectoire souhaitée. 
 
 L’outil peut ainsi être mobilisé comme support de discussion stratégique. Il permet d’identifier les dimensions déjà consolidées, celles qui nécessitent des approfondissements méthodologiques, ainsi que les arbitrages à opérer entre innovation, soutenabilité, inclusion, territorialisation et diffusion. 
